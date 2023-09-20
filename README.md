@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefani
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding, books and new challenges
 - 🌱 I’m currently learning C#
 
 <!---
